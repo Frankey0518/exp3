@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url("Final project\Images\Pic1.png");
+    background-size:cover;
+    background-position: center;
+}
+
+.home{
+    border-color:brown;
+    height:800px;
+    width: 100%;
+    padding-top:300px;
+}
+
